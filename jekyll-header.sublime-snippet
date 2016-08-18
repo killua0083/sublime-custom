@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<!--
+  author: ${1:name}
+  info: ${2:标题}
+  contact: ${3:killua0083@gmail.com}
+-->
+
+${4:start}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>htop</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
